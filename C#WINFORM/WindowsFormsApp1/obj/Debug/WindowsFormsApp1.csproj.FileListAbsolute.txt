@@ -1,0 +1,34 @@
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\personal\Desktop\임베디드(안에시험)\07EMBEDDED-main\07EMBEDDED-main\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\personal\Desktop\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\personal\Desktop\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\personal\Desktop\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\personal\Desktop\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\personal\Desktop\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\personal\Desktop\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\personal\Desktop\04 웹임베디드 - 복사본\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\personal\Desktop\Test\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\personal\Desktop\Test\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\personal\Desktop\Test\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\personal\Desktop\Test\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\personal\Desktop\Test\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\personal\Desktop\Test\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\personal\Desktop\Test\C#WINFORM\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
